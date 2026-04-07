@@ -35,7 +35,7 @@ It does not depend on any remote API and is designed for local-first use.
 ## Requirements
 
 - Python 3.x
-- Ollama installed
+- Ollama installed (enter either 1 or 2 into your terminal to install Ollama):
    1. curl -fsSL https://ollama.com/install.sh | sh
      - OR -
    2. brew install ollama
