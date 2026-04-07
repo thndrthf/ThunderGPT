@@ -36,7 +36,11 @@ It does not depend on any remote API and is designed for local-first use.
 
 - Python 3.x
 - Ollama installed
+   1. curl -fsSL https://ollama.com/install.sh | sh
+     - OR -
+   2. brew install ollama
 - At least one local Ollama model pulled
+    ollama pull qwen3:0.6b
 - Python packages:
   - `requests`
   - `tkinter` (usually included with Python)
