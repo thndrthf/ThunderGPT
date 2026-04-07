@@ -1,5 +1,5 @@
 
-# Ollama Offline Chat
+# ThunderGPT v4
 
 A simple offline desktop chat app for Ollama, built with Python and Tkinter.
 
